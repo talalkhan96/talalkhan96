@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @talalkhan96
 - 👀 I’m interested in Backend Development.
-- 🌱 I’m currently learning DevOps, Typscript, Dart.
+- 🌱 I’m currently learning DevOps, Typescript, Dart.
 - 💞️ I’m looking to collaborate on Backend Engineering.
 - 📫 How to reach me via Linkedin : https://www.linkedin.com/in/talal-khan-0ba694146/
 
