@@ -1,12 +1,41 @@
-![](https://remakelearning.org/wp-content/uploads/2020/01/122.gif)
+# Hi, I'm Talal Khan 👋
 
-- 👋 Hi, I’m @talalkhan96
-- 👀 I’m interested in Backend Development.
-- 🌱 I’m currently learning DevOps, Typescript, Dart.
-- 💞️ I’m looking to collaborate on Backend Engineering.
-- 📫 How to reach me via Linkedin : https://www.linkedin.com/in/talal-khan-0ba694146/
+Senior Software Engineer with 3+ years of experience building scalable backend systems, cloud-native applications, and event-driven architectures.
 
-<!---
-talalkhan96/talalkhan96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+* Backend Engineer specializing in Node.js & TypeScript
+* Experienced with Microservices & Serverless Architectures
+* Strong AWS experience (Lambda, ECS, ECR, S3, EventBridge)
+* Skilled in CI/CD, Docker, and Cloud Infrastructure
+* Focused on performance optimization and scalable systems
+
+## 🛠 Tech Stack
+
+### Backend
+
+Node.js • TypeScript • NestJS • Express.js • GraphQL • REST APIs • gRPC
+
+### Databases
+
+PostgreSQL • MongoDB • MySQL • Redis
+
+### Cloud & DevOps
+
+AWS • Docker • ECS • ECR • EC2 • Lambda • GitHub Actions • CI/CD
+
+### Architecture
+
+Microservices • Event-Driven Systems • Monorepo • Serverless
+
+## 📌 Featured Projects
+
+* Scalable Microservices Architecture
+* AWS Serverless Automation Workflows
+* Media Processing Pipeline using AWS MediaConvert
+* Real-time Systems with WebSockets
+
+## 📫 Connect With Me
+
+LinkedIn: linkedin.com/in/talal-khan-0ba694146
+Email: [talal.khan96@gmail.com](mailto:talal.khan96@gmail.com)
