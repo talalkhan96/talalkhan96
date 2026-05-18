@@ -18,7 +18,7 @@ Node.js • TypeScript • NestJS • Express.js • Python • GoLang • Graph
 
 ### Databases
 
-PostgreSQL • MongoDB • MySQL • Redis
+PostgreSQL • MongoDB • SQL • MySQL • Redis
 
 ### Cloud & DevOps
 
