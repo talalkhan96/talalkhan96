@@ -14,7 +14,7 @@ Senior Software Engineer with 3+ years of experience building scalable backend s
 
 ### Backend
 
-Node.js • TypeScript • NestJS • Express.js • GraphQL • REST APIs • gRPC
+Node.js • TypeScript • NestJS • Express.js • Python • GoLang • GraphQL • REST APIs • gRPC
 
 ### Databases
 
